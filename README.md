@@ -5,7 +5,7 @@
 I am working on an applied mathematical project related to complexity theory and the probabilistic determination of the actions of knowledgeable members in a society. Additionally, I am exploring the opposite of this kind of society—a superorganism, like colonies of <u>ants</u> and <u>bees</u>. With a little effort of research, we can gain interesting insights into how complex complexity theory truly is, as it doesn’t follow a straightforward structure for every system. For example, using common sense, you might think that a system composed of intelligent agents would create a flawless system capable of solving any problem with incomparable results compared to other types of agents. You might also conclude that the smarter we make each agent and the more agents we add, the more efficient and effective the system will become. But we can see the amazing result which is created by a system created by dummy angents, a <b>superorganism</b>.
 <b>The goal of this project</b>  is to create a system (society) simulation using a diffusion model. We will develop a single model for the entire system, and the members of this society will be integrated into this model.
 <p>
-    /~~~~~~~~~~~~~~~~~~~~\ <br>
+    /~~~~~~~~~~~~~~~~~~~~~~~\ <br>
 |####################|<br>
 |####################|<br>
 |####################|<br>
