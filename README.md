@@ -4,45 +4,8 @@
 ## --[ The Goal of the <u>project</u> ]--
 I am working on an applied mathematical project related to complexity theory and the probabilistic determination of the actions of knowledgeable members in a society. Additionally, I am exploring the opposite of this kind of society—a superorganism, like colonies of <u>ants</u> and <u>bees</u>. With a little effort of research, we can gain interesting insights into how complex complexity theory truly is, as it doesn’t follow a straightforward structure for every system. For example, using common sense, you might think that a system composed of intelligent agents would create a flawless system capable of solving any problem with incomparable results compared to other types of agents. You might also conclude that the smarter we make each agent and the more agents we add, the more efficient and effective the system will become. But we can see the amazing result which is created by a system created by dummy angents, a <b>superorganism</b>.
 <b>The goal of this project</b>  is to create a system (society) simulation using a diffusion model. We will develop a single model for the entire system, and the members of this society will be integrated into this model.
-
-<style>
-  .custom-underline {
-    position: relative;
-    display: inline-block;
-  }
-  .custom-underline::after {
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: -1px; /* Adjust this value to control the gap */
-    width: 100%;
-    height: 1px; /* Thickness of the underline */
-    background-color: black; /* Color of the underline */
-  }
-
-  .underline-over-text {
-    border-top: 1px solid black; /* Underline above the text */
-    padding-top: 1px; /* Adjust this value to control the gap */
-    display: inline-block;
-  }
-
-  .closer-lines {
-    line-height: 0.94; /* Adjust this value to control spacing */
-  }
-
-  .inline-block {
-    display: inline-block;
-    width: 10%; /* Adjust width as needed */
-    vertical-align: top; /* Aligns elements at the top */
-  }
-</style>
-
-
-<p class="closer-lines">
-|<span class="underline-over-text">####################</span>|<br>
-|####################|<br>
-|####################|<br>
-|####################| <img src="https://latex.codecogs.com/svg.image?f(x)%20%3D%20%5Cfrac%7B1%7D%7B%5Csigma%20%5Csqrt%7B2%5Cpi%7D%7D%20e%5E%7B-%5Cfrac%7B(x%20-%20%5Cmu)%5E2%7D%7B2%5Csigma%5E2%7D%7D" alt="Gaussian Function" style="float: right; width: 300px; height: auto; margin: 0 10px 10px 0;"/>  <br>
+<p>
+ /~~~~~~~~~~~~~~~~~~\ <br>
 |####################|<br>
 |####################|<br>
 |####################|<br>
@@ -50,7 +13,10 @@ I am working on an applied mathematical project related to complexity theory and
 |####################|<br>
 |####################|<br>
 |####################|<br>
-|<span class="custom-underline">####################</span>|
+|####################|<br>
+|####################|<br>
+|####################|<br>
+ \~~~~~~~~~~~~~~~~~~/
 </p>
 
 <p>
@@ -59,40 +25,9 @@ I am working on an applied mathematical project related to complexity theory and
   To keep the model as simple as possible, we avoid using metadata, color, or any additional information for each block of noise removal. Instead, the only factor influencing the creation of different species or materials is the shape of the noise removal itself.
 </p>
 
-<style>
-  .custom-underline {
-    position: relative;
-    display: inline-block;
-  }
-  .custom-underline::after {
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: -1px; /* Adjust this value to control the gap */
-    width: 100%;
-    height: 1px; /* Thickness of the underline */
-    background-color: black; /* Color of the underline */
-  }
 
-  .underline-over-text {
-    border-top: 1px solid black; /* Underline above the text */
-    padding-top: 1px; /* Adjust this value to control the gap */
-    display: inline-block;
-  }
-
-  .closer-lines {
-    line-height: 0.94; /* Adjust this value to control spacing */
-  }
-
-  .inline-block {
-    display: inline-block;
-    width: 10%; /* Adjust width as needed */
-    vertical-align: top; /* Aligns elements at the top */
-  }
-</style>
-
-<p class="closer-lines">
-|<span class="underline-over-text">####################</span>|    |<span class="underline-over-text">####################</span>|<br>
+<p>
+ /~~~~~~~~~~~~~~~~~~\       /~~~~~~~~~~~~~~~~~~\ 
 |####################|     |####################|<br>
 |####################|     |####################|<br>
 |####################|     |####################|<br>
@@ -103,56 +38,10 @@ I am working on an applied mathematical project related to complexity theory and
 |####################|     |####################|<br>
 |####################|     |####################|<br>
 |####################|     |####################|<br>
-|<span class="custom-underline">####################</span>|     |<span class="custom-underline">####################</span>|
+|####################|     |####################|<br>
+|####################|     |####################|
+ \~~~~~~~~~~~~~~~~~~/       \~~~~~~~~~~~~~~~~~~/
 </p>
 
-<img src="https://latex.codecogs.com/svg.image?f(x)%20%3D%20%5Cfrac%7B1%7D%7B%5Csigma%20%5Csqrt%7B2%5Cpi%7D%7D%20e%5E%7B-%5Cfrac%7B(x%20-%20%5Cmu)%5E2%7D%7B2%5Csigma%5E2%7D%7D" alt="Gaussian Function" width="300" />
 
-
-
-
-<style>
-  .closer-lines {
-    line-height: 1; /* Tight spacing between lines */
-    font-family: monospace; /* Ensures consistent character width */
-    white-space: nowrap; /* Prevents lines from breaking */
-    position: relative; /* Establishes a positioning context */
-  }
-
-  .image-container {
-    position: absolute; /* Positions the image absolutely */
-    top: 0; /* Aligns the image to the top */
-    right: 0; /* Aligns the image to the right */
-    text-align: center; /* Centers the caption */
-  }
-
-  .image-container img {
-    width: 300px; /* Adjust image width as needed */
-    height: auto; /* Maintains aspect ratio */
-  }
-
-  .image-container figcaption {
-    font-style: italic; /* Italicizes the caption */
-    color: #555; /* Sets caption color */
-    margin-top: 5px; /* Adds space between image and caption */
-  }
-</style>
-
-<p class="closer-lines">
-  <div class="image-container">
-    <img src="https://latex.codecogs.com/svg.image?f(x)%20%3D%20%5Cfrac%7B1%7D%7B%5Csigma%20%5Csqrt%7B2%5Cpi%7D%7D%20e%5E%7B-%5Cfrac%7B(x%20-%20%5Cmu)%5E2%7D%7B2%5Csigma%5E2%7D%7D" alt="Gaussian Function">
-    <figcaption>Gaussian Function</figcaption>
-  </div>
-  |<span style="border-top: 1px solid black; padding-top: 1px;">####################</span>|<br>
-  |####################|<br>
-  |####################|<br>
-  |####################|<br>
-  |####################|<br>
-  |####################|<br>
-  |####################|<br>
-  |####################|<br>
-  |####################|<br>
-  |####################|<br>
-  |####################|<br>
-  |<span style="border-bottom: 1px solid black; padding-bottom: 1px;">####################</span>|
-</p>
+<img src="https://latex.codecogs.com/svg.image?f(x)%20%3D%20%5Cfrac%7B1%7D%7B%5Csigma%20%5Csqrt%7B2%5Cpi%7D%7D%20e%5E%7B-%5Cfrac%7B(x%20-%20%5Cmu)%5E2%7D%7B2%5Csigma%5E2%7D%7D" alt="Gaussian Function" style="float: right; width: 300px; height: auto; margin: 0 10px 10px 0;"/>  <br>
