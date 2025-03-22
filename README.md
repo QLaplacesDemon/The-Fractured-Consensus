@@ -28,8 +28,8 @@ I am working on an applied mathematical project related to complexity theory and
 <p>
     /~~~~~~~~~~~~~~~~~~~~~~~\     /~~~~~~~~~~~~~~~~~~~~~~~\
 |####################|     |####################|<br>
-|####################|     |##   ###############|<br>
-|####################|     |##   ###############|<br>
+|####################|     |##000###############|<br>
+|####################|     |##000###############|<br>
 |####################|     |####################|<br>
 |####################|     |####################|<br>
 |####################|     |####################|<br>
@@ -45,16 +45,16 @@ I am working on an applied mathematical project related to complexity theory and
 
 <p>
     /~~~~~~~~~~~~~~~~~~~~~~~\     /~~~~~~~~~~~~~~~~~~~~~~~\ 
-|####################|     |####  ####   #######|<br>
-|##   ########### ###|     |##   ########### ###|<br>
-|##      ############|     |##      ##   #######|<br>
-|######  ############|     |######  ########  ##|<br>
-|######      ########|     |#  ###      ########|<br>
-|####################|     |##  #####          #|<br>
-|############## #####|     |###   ##   ### #####||<br>
-|#############  #####|     |###   ## # ##  ### #|<br>
-|####################|     |####     ###########|
-    \~~~~~~~~~~~~~~~~~~~~~~~/     \~~~~~~~~~~~~~~~~~~~~~~~/
+|####################|     |####![0](https://img.shields.io/badge/-000-red)####![0](https://img.shields.io/badge/-0000-red)#######|<br>
+|##![0](https://img.shields.io/badge/-000-red)###########![0](https://img.shields.io/badge/-0-red)###|     |##![0](https://img.shields.io/badge/-000-red)###########![0](https://img.shields.io/badge/-0-red)###|<br>
+|##![0](https://img.shields.io/badge/-000000-red)############|     |##![0](https://img.shields.io/badge/-000000-red)##![0](https://img.shields.io/badge/-000-red)#######|<br>
+|######![0](https://img.shields.io/badge/-00-red)############|     |######![0](https://img.shields.io/badge/-00-red)########![0](https://img.shields.io/badge/-00-red)##|<br>
+|######![0](https://img.shields.io/badge/-000000-red)########|     |#![0](https://img.shields.io/badge/-00-red)###![0](https://img.shields.io/badge/-000000-red)########|<br>
+|####################|     |##![0](https://img.shields.io/badge/-00-red)#####![0](https://img.shields.io/badge/-0000000000-red)#|<br>
+|##############![0](https://img.shields.io/badge/-0-red)#####|     |###![0](https://img.shields.io/badge/-000-red)##![0](https://img.shields.io/badge/-000-red)###![0](https://img.shields.io/badge/-0-red)#####|<br>
+|#############![0](https://img.shields.io/badge/-00-red)#####|     |###![0](https://img.shields.io/badge/-000-red)##![0](https://img.shields.io/badge/-0-red)#![0](https://img.shields.io/badge/-0-red)##![0](https://img.shields.io/badge/-00-red)###![0](https://img.shields.io/badge/-0-red)#|<br>
+|####################|     |####![0](https://img.shields.io/badge/-00000-red)###########|<br>
+    \~~~~~~~~~~~~~~~~~~~~~~~/     \~~~~~~~~~~~~~~~~~~~~~~~/<br>
 ---------------------------------------------------------------------------------------><br>
 <img src="https://latex.codecogs.com/svg.image?\color{white}\frac{dx}{dt}" alt="White Derivative" width="25" />
 </p>
