@@ -44,7 +44,7 @@ I am working on an applied mathematical project related to complexity theory and
 </p>
 
 <p>
-    /~~~~~~~~~~~~~~~~~~~~~~~\     /~~~~~~~~~~~~~~~~~~~~~~~\ 
+    /~~~~~~~~~~~~~~~~~~~~~~~\     /~~~~~~~~~~~~~~~~~~~~~~~\<br>
 |####################|     |####![0](https://img.shields.io/badge/-000-red)####![0](https://img.shields.io/badge/-0000-red)#######|<br>
 |##![0](https://img.shields.io/badge/-000-red)###########![0](https://img.shields.io/badge/-0-red)###|     |##![0](https://img.shields.io/badge/-000-red)###########![0](https://img.shields.io/badge/-0-red)###|<br>
 |##![0](https://img.shields.io/badge/-000000-red)############|     |##![0](https://img.shields.io/badge/-000000-red)##![0](https://img.shields.io/badge/-000-red)#######|<br>
