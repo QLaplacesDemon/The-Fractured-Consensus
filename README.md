@@ -45,8 +45,7 @@ I am working on an applied mathematical project related to complexity theory and
 
 <p>
     /~~~~~~~~~~~~~~~~~~~~~~~\     /~~~~~~~~~~~~~~~~~~~~~~~\ 
-|####################|     |####00####<img src="https://img.shields.io/badge/-000-red" alt="000">
-#######|<br>
+|####################|     |####00####000#######|<br>
 |##000###########0###|     |##000###########0###|<br>
 |##000000############|     |##000000##000#######|<br>
 |######00############|     |######00########00##|<br>
@@ -60,5 +59,4 @@ I am working on an applied mathematical project related to complexity theory and
 <img src="https://latex.codecogs.com/svg.image?\color{white}\frac{dx}{dt}" alt="White Derivative" width="25" />
 </p>
 
-<img src="https://latex.codecogs.com/svg.image?f(x)%20%3D%20%5Cfrac%7B1%7D%7B%5Csigma%20%5Csqrt%7B2%5Cpi%7D%7D%20e%5E%7B-%5Cfrac%7B(x%20-%20%5Cmu)%5E2%7D%7B2%5Csigma%5E2%7D%7D" alt="Gaussian Function" style="float: right; width: 300px; height: auto; margin: 0 10px 10px 0;"/>  <br>
- <img src="https://img.shields.io/badge/-red_text-red" alt="red text">
+<img src="https://latex.codecogs.com/svg.image?f(x)%20%3D%20%5Cfrac%7B1%7D%7B%5Csigma%20%5Csqrt%7B2%5Cpi%7D%7D%20e%5E%7B-%5Cfrac%7B(x%20-%20%5Cmu)%5E2%7D%7B2%5Csigma%5E2%7D%7D" alt="Gaussian Function" style="float: right; width: 300px; height: auto; margin: 0 10px 10px 0;"/>
