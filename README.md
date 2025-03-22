@@ -40,7 +40,7 @@ I am working on an applied mathematical project related to complexity theory and
 <br>
 <br>
 ---------------------------------------------------------------------------------------><br>
-<img src="https://latex.codecogs.com/svg.image?\color{white}\frac{dx}{dt}" alt="White Derivative" width="100" />
+<img src="https://latex.codecogs.com/svg.image?\color{white}\frac{dx}{dt}" alt="White Derivative" width="50" />
 </p>
 
 <p>
