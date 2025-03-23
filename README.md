@@ -59,4 +59,8 @@ I am working on an applied mathematical project related to complexity theory and
 <img src="https://latex.codecogs.com/svg.image?\color{white}\frac{dx}{dt}" alt="White Derivative" width="25" />
 </p>
 
-<img src="https://latex.codecogs.com/svg.image?f(x)%20%3D%20%5Cfrac%7B1%7D%7B%5Csigma%20%5Csqrt%7B2%5Cpi%7D%7D%20e%5E%7B-%5Cfrac%7B(x%20-%20%5Cmu)%5E2%7D%7B2%5Csigma%5E2%7D%7D" alt="Gaussian Function" style="float: right; width: 300px; height: auto; margin: 0 10px 10px 0;"/>
+<p>
+    However, as can be intuitively understood, this method ensures that over time, all cells will eventually turn on. Thus, we have created a simulation that transforms a random space into an ordered space at an exponential rate.<br>
+    Certainly, as you may have guessed, by introducing the functionality of adding noise, we can create a combination of life and death states. This serves as the driving force for generating complexity over time in an ecosystem. However, I would like to spend a bit more time on this aspect before moving on to incorporate the noise factor into the ecosystem. I believe that the rush of other researchers to address the balance between life and death in an ecosystem often leads them to overlook the most essential and intriguing aspect of these generic environments.<br>
+    
+</p>
